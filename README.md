@@ -1,7 +1,7 @@
 
 <h2 align="Left">Hi there! 👋</h2>
 
-I'm a passionate Quality Assurance Specialist with __3 years of experience__
+I'm a passionate Quality Control Specialist with __3 years of experience__
  in the software testing industry. I specialize in __Manual testing__, __API testing__, __and__ __automation testing__
 . My goal is to ensure the delivery of high-quality software products through meticulous testing processes and efficient automation strategies.
 
