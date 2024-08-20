@@ -1,8 +1,9 @@
 
 <h2 align="Left">Hi there! 👋</h2>
 
-<p>I'm a passionate Quality Assurance Specialist with <span style="font-weight: bold;">3 years of experience</span>
- in the software testing industry. I specialize in <span style="font-weight: bold;"> Manual testing, API testing</span>, and automation testing. My goal is to ensure the delivery of high-quality software products through meticulous testing processes and efficient automation strategies.</p>
+I'm a passionate Quality Assurance Specialist with <span style="font-weight: bold;">3 years of experience</span>
+ in the software testing industry. I specialize in __Manual testing__, __API testing__, and __automation testing__
+. My goal is to ensure the delivery of high-quality software products through meticulous testing processes and efficient automation strategies.
 
 <h3 align="Left">🛠️ Skills & Expertise</h3>
 
