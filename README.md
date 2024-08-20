@@ -1,12 +1,7 @@
-<style>
-  .bold-text {
-    font-weight: bold;
-  }
-</style>
 
 <h2 align="Left">Hi there! 👋</h2>
 
-I'm a passionate Quality Assurance Specialist with <span class="bold-text">3 years of experience</span>
+I'm a passionate Quality Assurance Specialist with <h3>3 years of experience</h3>
 3 years of experience</span>
  in the software testing industry. I specialize in <span style="font-weight: bold;"> Manual testing, API testing</span>, and automation testing. My goal is to ensure the delivery of high-quality software products through meticulous testing processes and efficient automation strategies.
 
