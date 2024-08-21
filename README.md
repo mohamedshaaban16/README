@@ -7,9 +7,9 @@ I'm a passionate Quality Control Specialist with __3 years of experience__
 
 <h3 align="Left">🛠️ Skills & Expertise</h3>
 
-Manual Testing: Expert in identifying bugs and ensuring a smooth user experience.
-API Testing: Proficient in testing RESTful APIs using tools like Postman.
-Automation Testing: 3 Months Experienced in creating and maintaining automation script using Selenium Java (TestNG) tools.
+Manual Testing: Expert in identifying bugs and ensuring a smooth user experience.<br>
+API Testing: Proficient in testing APIs using tools like Postman.<br>
+Automation Testing: 3 Months Experienced in creating and maintaining automation script using Selenium Java (TestNG) tools.<br>
 Test Management: Skilled in using tools like __Jira__, __Azure Devops__, __and__ __Trello__ for test case management and defect tracking.
 
 <h3 align="Left">🌱 What I'm Currently Learning</h3>
